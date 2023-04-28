@@ -4,7 +4,17 @@ Tooplate 2120 Ben Resume
 
 https://www.tooplate.com/view/2120-ben-resume
 
+
 */
+.skills-table {
+  border-collapse: collapse;
+  border: 5px solid black;
+}
+
+.skills-table th, .skills-table td {
+  border: 3px solid black;
+  padding: 10px;
+}
 
   @font-face {
       font-family: 'Plain';
